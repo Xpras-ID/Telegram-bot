@@ -15,7 +15,7 @@ Tutorial
 - Notification: After clicking "Set notification", enter the target price
 
 
-
+![Image](https://github.com/user-attachments/assets/cb6b26d8-b4cb-4054-8f76-8b80ec71319d)
 
 
 
